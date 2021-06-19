@@ -34,8 +34,13 @@ export default function Loader({
   [k: string]: any
 }) {
   return (
-    <StyledSVG viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" size={size} stroke={stroke} {...rest}>
-     
-    </StyledSVG>
+    <StyledSVG
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      size={size}
+      stroke={stroke}
+      {...rest}
+    ></StyledSVG>
   )
 }
