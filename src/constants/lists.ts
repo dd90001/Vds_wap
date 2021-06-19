@@ -1,4 +1,4 @@
-// the Uniswap Default token list lives here
+ // the Uniswap Default token list lives here
 export const DEFAULT_TOKEN_LIST_URL = 'tokens.uniswap.eth'
 
 export const DEFAULT_LIST_OF_LISTS: string[] = [
@@ -12,7 +12,7 @@ export const DEFAULT_LIST_OF_LISTS: string[] = [
   'stablecoin.cmc.eth',
   'tokenlist.zerion.eth',
   'tokenlist.aave.eth',
-  'https://api.vdswap.com/token_lists/all.json'
+  'https://api.vdswap.com/token_lists/index.php'
   //   'https://tokens.coingecko.com/uniswap/all.json',
   //   'https://app.tryroll.com/tokens.json',
   //   'https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json',
