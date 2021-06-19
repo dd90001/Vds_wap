@@ -224,7 +224,7 @@ function parseCurrencyFromURLParameter(urlParam: any): string {
     if (urlParam.toUpperCase() === 'ETH') return 'VDS'
     if (valid === false) return 'VDS'
   }
-  return 'VDS' ?? ''
+  return 'VDS' 
 }
 
 function parseTokenAmountURLParameter(urlParam: any): string {
