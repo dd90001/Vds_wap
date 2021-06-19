@@ -115,7 +115,7 @@ function CurrencyRow({
       <CurrencyLogo currency={currency} size={'24px'} />
       <Column>
         <Text title={currency.name} fontWeight={500}>
-          if(currency.name === Ether) {'VDS'}else {currency.symbol}
+       {currency.symbol}
         </Text>
         <FadedSpan>
           {!isOnSelectedList && customAdded ? (
