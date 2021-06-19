@@ -4,8 +4,8 @@
     "static/js/0.fe0201aa.chunk.js.map": "/Vds_wap/static/js/0.fe0201aa.chunk.js.map",
     "static/js/1.237ecbbe.chunk.js": "/Vds_wap/static/js/1.237ecbbe.chunk.js",
     "static/js/1.237ecbbe.chunk.js.map": "/Vds_wap/static/js/1.237ecbbe.chunk.js.map",
-    "main.js": "/Vds_wap/static/js/main.085ef8cd.chunk.js",
-    "main.js.map": "/Vds_wap/static/js/main.085ef8cd.chunk.js.map",
+    "main.js": "/Vds_wap/static/js/main.5093febb.chunk.js",
+    "main.js.map": "/Vds_wap/static/js/main.5093febb.chunk.js.map",
     "runtime-main.js": "/Vds_wap/static/js/runtime-main.77f14361.js",
     "runtime-main.js.map": "/Vds_wap/static/js/runtime-main.77f14361.js.map",
     "static/css/4.ac082291.chunk.css": "/Vds_wap/static/css/4.ac082291.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.84169b1f.chunk.js": "/Vds_wap/static/js/9.84169b1f.chunk.js",
     "static/js/9.84169b1f.chunk.js.map": "/Vds_wap/static/js/9.84169b1f.chunk.js.map",
     "index.html": "/Vds_wap/index.html",
-    "precache-manifest.a3d097564969f602956d5449d09cdd4c.js": "/Vds_wap/precache-manifest.a3d097564969f602956d5449d09cdd4c.js",
+    "precache-manifest.e246a7641e875ef9d1d41f6e670749b5.js": "/Vds_wap/precache-manifest.e246a7641e875ef9d1d41f6e670749b5.js",
     "service-worker.js": "/Vds_wap/service-worker.js",
     "static/css/4.ac082291.chunk.css.map": "/Vds_wap/static/css/4.ac082291.chunk.css.map",
     "static/js/4.e32d12e3.chunk.js.LICENSE.txt": "/Vds_wap/static/js/4.e32d12e3.chunk.js.LICENSE.txt",
@@ -42,7 +42,7 @@
     "static/media/dropdown.svg": "/Vds_wap/static/media/dropdown.7d32d2fa.svg",
     "static/media/dropup-blue.svg": "/Vds_wap/static/media/dropup-blue.b96d70e1.svg",
     "static/media/link.svg": "/Vds_wap/static/media/link.50c67f3c.svg",
-    "static/media/logo.svg": "/Vds_wap/static/media/logo.742edb09.svg",
+    "static/media/logo.svg": "/Vds_wap/static/media/logo.178321a2.svg",
     "static/media/logo_white.svg": "/Vds_wap/static/media/logo_white.bc1aa183.svg",
     "static/media/magnifying-glass.svg": "/Vds_wap/static/media/magnifying-glass.67440097.svg",
     "static/media/menu.svg": "/Vds_wap/static/media/menu.4f2c4440.svg",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.77f14361.js",
     "static/css/4.ac082291.chunk.css",
     "static/js/4.e32d12e3.chunk.js",
-    "static/js/main.085ef8cd.chunk.js"
+    "static/js/main.5093febb.chunk.js"
   ]
 }

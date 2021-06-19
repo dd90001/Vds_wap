@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fb43a954b397a0b682a71752b93b0fb",
+    "revision": "2b30feb98099411237f36702a087a390",
     "url": "/Vds_wap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vds_wap/static/js/9.84169b1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3931cff10dd620811f41",
-    "url": "/Vds_wap/static/js/main.085ef8cd.chunk.js"
+    "revision": "a1297a4db3890beab34f",
+    "url": "/Vds_wap/static/js/main.5093febb.chunk.js"
   },
   {
     "revision": "db4ce2be64b7086c5a48",
@@ -268,8 +268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vds_wap/static/media/link.50c67f3c.svg"
   },
   {
-    "revision": "742edb097a191c4a04a0d63d935b117d",
-    "url": "/Vds_wap/static/media/logo.742edb09.svg"
+    "revision": "178321a2ebbd1a79f394117247fad7ec",
+    "url": "/Vds_wap/static/media/logo.178321a2.svg"
   },
   {
     "revision": "bc1aa1833999ad0f7fc573453537453c",
