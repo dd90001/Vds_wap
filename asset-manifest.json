@@ -4,8 +4,8 @@
     "static/js/0.fe0201aa.chunk.js.map": "/Vds_wap/static/js/0.fe0201aa.chunk.js.map",
     "static/js/1.237ecbbe.chunk.js": "/Vds_wap/static/js/1.237ecbbe.chunk.js",
     "static/js/1.237ecbbe.chunk.js.map": "/Vds_wap/static/js/1.237ecbbe.chunk.js.map",
-    "main.js": "/Vds_wap/static/js/main.4a9cb743.chunk.js",
-    "main.js.map": "/Vds_wap/static/js/main.4a9cb743.chunk.js.map",
+    "main.js": "/Vds_wap/static/js/main.509d4ec2.chunk.js",
+    "main.js.map": "/Vds_wap/static/js/main.509d4ec2.chunk.js.map",
     "runtime-main.js": "/Vds_wap/static/js/runtime-main.77f14361.js",
     "runtime-main.js.map": "/Vds_wap/static/js/runtime-main.77f14361.js.map",
     "static/css/4.ac082291.chunk.css": "/Vds_wap/static/css/4.ac082291.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.84169b1f.chunk.js": "/Vds_wap/static/js/9.84169b1f.chunk.js",
     "static/js/9.84169b1f.chunk.js.map": "/Vds_wap/static/js/9.84169b1f.chunk.js.map",
     "index.html": "/Vds_wap/index.html",
-    "precache-manifest.0d61d8b7ba7a77820fd89101b5064554.js": "/Vds_wap/precache-manifest.0d61d8b7ba7a77820fd89101b5064554.js",
+    "precache-manifest.e57b47a96ab3261945f75dbff5678a35.js": "/Vds_wap/precache-manifest.e57b47a96ab3261945f75dbff5678a35.js",
     "service-worker.js": "/Vds_wap/service-worker.js",
     "static/css/4.ac082291.chunk.css.map": "/Vds_wap/static/css/4.ac082291.chunk.css.map",
     "static/js/4.e32d12e3.chunk.js.LICENSE.txt": "/Vds_wap/static/js/4.e32d12e3.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.77f14361.js",
     "static/css/4.ac082291.chunk.css",
     "static/js/4.e32d12e3.chunk.js",
-    "static/js/main.4a9cb743.chunk.js"
+    "static/js/main.509d4ec2.chunk.js"
   ]
 }
