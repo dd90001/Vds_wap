@@ -1,0 +1,127 @@
+{
+    "name": "Vdswap",
+    "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2021-06-15T10:03:47.615+00:00",
+    "tokens": [
+        {
+            "chainId": 88,
+            "address": "391dab6ca1539313092dc5fe714c19f397559e16",
+            "name": "DV",
+            "symbol": "DV",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210430/0f3295b79b6ab3313ab9a8f7bdac6acb.png"
+        },
+        {
+            "chainId": 88,
+            "address": "6e0b2d34bb903c8295e2bf32e3c7775a44f663b5",
+            "name": "VBTC",
+            "symbol": "VBTC",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/89008df3a4b0f040bb141c13708c5b82.png"
+        },
+        {
+            "chainId": 88,
+            "address": "1b2191fe8bf598ba1ef3a81adbb03be1fad694e8",
+            "name": " VDSH",
+            "symbol": " VDSH",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/89008df3a4b0f040bb141c13708c5b82.png"
+        },
+        {
+            "chainId": 88,
+            "address": "bdc87bebf388838c59634ccec284b5a116040b5b",
+            "name": "VBB",
+            "symbol": "VBB",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/0e723ff9a7be2134df8803e63daa0021.png"
+        },
+        {
+            "chainId": 88,
+            "address": "4c525e91e5a7a57bf3d88405757ba4a605676872",
+            "name": "USDTV",
+            "symbol": "USDTV",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/89008df3a4b0f040bb141c13708c5b82.png"
+        },
+        {
+            "chainId": 1,
+            "address": "fc0c9b90da127be04e0553c7512a2d0c1f885c39",
+            "name": "Ange",
+            "symbol": "Ange",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/89008df3a4b0f040bb141c13708c5b82.png"
+        },
+        {
+            "chainId": 88,
+            "address": "370f33d5c3c6925694409e0008ac51ec2c34e092",
+            "name": "VTL",
+            "symbol": "VTL",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210429/89008df3a4b0f040bb141c13708c5b82.png"
+        },
+        {
+            "chainId": 1,
+            "address": "15702def625b6b87041e00310d057c4d82c390cb",
+            "name": "GGB",
+            "symbol": "GGB",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210523/2239e6ab1ffc1a6d1dc5ffe1e0a6f09d.png"
+        },
+        {
+            "chainId": 88,
+            "address": "96bd3c1cdbe8756548ddac3b61bebaa7a81553c9",
+            "name": "LV",
+            "symbol": "LV",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210502/9346c350d1c0d6dfa6151bd564030b09.png"
+        },
+        {
+            "chainId": 1,
+            "address": "2838bac0d7ec97bd979912f815a71eead0bb981e",
+            "name": "SDT",
+            "symbol": "SDT",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210518/91ae69381ef28b9e379776963058c429.png"
+        },
+        {
+            "chainId": 88,
+            "address": "2b8812e607eeedad5633ddaf8b622164250074fc",
+            "name": "ONE",
+            "symbol": "ONE",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210515/f5b947e161cadc62e26e1deb474ea6d7.png"
+        },
+        {
+            "chainId": 88,
+            "address": "b9242bfdaf85ae907e9856498a14ff24aad08ed1",
+            "name": "FV",
+            "symbol": "FV",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210518/440424105963f440dcbdc849ff29c7c6.png"
+        },
+        {
+            "chainId": 88,
+            "address": "f7a702150eeb8d6f22235a9a789c8f5720eaaf7f",
+            "name": "SC",
+            "symbol": "SC",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210520/19b90311d8c870d5f75d2ce5a82be492.png"
+        },
+        {
+            "chainId": 88,
+            "address": "1d0a38ccdc3b687ee15268c4de50b9d6f4affaee",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 8,
+            "logoURI": "http://admin.vdsvv.org/upload/20210615/cd044bdc93b392ae72199a695442f9e7.png"
+        }
+    ],
+    "version": {
+        "major": 284,
+        "minor": 0,
+        "patch": 0
+    }
+}
